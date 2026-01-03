@@ -7,6 +7,10 @@
 
 </div>
 
+## Developed and maintained the key “Let’s Work Together” section using semantic code, ensuring a pixel-perfect and fully responsive cross-device UI.
+## Successfully leveraged prior teamwork experience collaborating in a team environment and received no critical feedback during mentor code reviews.
+
+
 ### A one-page responsive website created to demonstrate front-end development skills. This project is built with simple HTML, CSS, and JavaScript using **[Vite](https://vitejs.dev/)** as a development tool for fast development and optimization.
 
 ---
